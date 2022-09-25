@@ -11,9 +11,13 @@ NoSQL = No Only SQL → emerged as an alternative to SQL and not to try to repla
 ## SQL Features
 
 Vertical or Horizontal Scalability.
+
 More rigid structure, previously molded, modeled, definition of primary and secondary keys.
+
 Greater consistency, organization.
+
 Performance: Dependent on disk system for performance.
+
 Transactions: Atomicity, consistency, isolation, durability (ACID).
 
 ## Features of NoSQL
@@ -35,4 +39,4 @@ Advantages: flexibility, scalability, high performance.
 In the case of Mongo, it is recommended to use it for large volume of data, but not recommended in cases of need for Relationships/JOIN, where ACID properties and transactions are and in payment systems, as several payment entities do not approve in systems that customer financial data is not in a relational database.
 
 ## Data Engineering
-​The Data Engineer prepares the information that will be consumed, so he needs to have the technical knowledge to collect, prepare, store and make this information available to that the data scientist uses.​ The Data Engineer is closer to the manipulation data and has the technical knowledge of the tools.​ The Engineer will generate these information for data scientist consumption or other information consumption options, therefore it is necessary your knowledge in the different types of Database.
+The Data Engineer prepares the information that will be consumed, so he needs to have the technical knowledge to collect, prepare, store and make this information available to that the data scientist uses. The Data Engineer is closer to the manipulation data and has the technical knowledge of the tools. The Engineer will generate these information for data scientist consumption or other information consumption options, therefore it is necessary your knowledge in the different types of Database.
